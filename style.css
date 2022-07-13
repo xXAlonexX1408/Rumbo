@@ -1,0 +1,114 @@
+
+
+.img__header{
+width: 100%;
+}
+
+.pepe__1{
+    position: absolute;
+    top: 250px;
+}
+.pepe__2{
+    text-align: center;
+    color: #ffff00;
+    position: absolute;
+    top: 345px;
+    font-size: 62PX;
+}
+.pepe__3{
+    text-align: center;
+    position: absolute;
+    color: #ffffff;
+    top: 410px;
+    font-size:29px;
+
+}
+.pepe__4{
+    background-color: #ffff00;
+    position: absolute;
+    top: 500px ;
+    padding: 5px;
+    border-radius:7px;
+    margin: 0px;
+    border: 0px;
+    color: #808080;
+    font-size:30px;
+}
+.img{
+   height:261px;
+   width: 270px;  
+   
+}
+
+    
+.img_1{
+    width: 270px;
+    height: 261px;
+}
+
+.img_2{
+    width: 270px;
+    height: 261px;
+    
+}
+.img_3{
+    width: 270px;
+    height: 261px;
+}
+ .planes-h2{
+    font-size: 40px;
+ }
+
+.destinos {
+    padding: 200px 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image:url(img/bg-destinos.png);
+    width: 100%;
+    height: 1060px;
+    
+}
+.destinos__h2{
+    margin-bottom: 50px;
+    color:yellow;
+    font-size: 50px;
+    font-weight:bolder;
+}
+.card-destinos{
+  color: #ffffff;
+}
+.container{
+    text-align: center;
+    padding: 50px;
+}
+.card-infop p{
+   margin:0px;
+}
+
+
+
+.cont__img{
+    width: 100%;
+}
+.cont__h2{
+    position: absolute;
+    bottom: 10px;
+}
+
+
+.contacto{
+    background-color: #ffff00;
+    width: 100%;
+    padding: 70px;
+}
+.boton{
+    border-radius: 5px;
+    border: 0px;
+    background:rgba(0, 0, 0, 0.425);
+}
+.footer{
+    background: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 40px;
+}
